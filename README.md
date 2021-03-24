@@ -17,7 +17,5 @@ The KNN yields a F-score (which is the weighted average between precision and re
 MIT
 
 ## References
-[1] J.Czerniak, H.Zarzycki, Application of rough sets in the presumptive diagnosis of urinary system diseases,
-Artifical Inteligence and Security in Computing Systems, ACS'2002 9th International Conference Proceedings,
-Kluwer Academic Publishers,2003, pp. 41-51
+[1] Faroudja ABID et al. , Predicting Forest Fire in Algeria using Data Mining Techniques: Case Study of the Decision Tree Algorithm, International Conference on Advanced Intelligent Systems for Sustainable Development (AI2SD 2019) , 08 - 11 July , 2019, Marrakech, Morocco.
 [2] https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
