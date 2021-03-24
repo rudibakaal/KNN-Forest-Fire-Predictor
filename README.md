@@ -3,7 +3,7 @@
 ## Motivation
 K-nearest neighbours algorithm designed to predict forest fire occurrence based on environmental data.
 
-The dataset includes 244 instances compromising of 11 numeric enivornmental features and 1 binary class label of two forest regions in Algeria over a period of 4 months[1].
+The dataset includes 244 instances compromising of 12 numeric enivornmental features and 1 binary class label of two forest regions in Algeria over a period of 4 months[1].
 
 
 ## KNN Results Summary
