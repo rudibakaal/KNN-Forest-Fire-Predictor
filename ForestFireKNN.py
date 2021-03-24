@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-import matplotlib.style as style
 from sklearn.metrics import plot_confusion_matrix
 from sklearn.metrics import classification_report
 
