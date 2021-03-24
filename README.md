@@ -11,7 +11,7 @@ Sklearm's KNeighborsClassifier library was used with k=9 and the default Minkows
 
 The KNN yields a F-score (which is the weighted average between precision and recall)[2] of .94.
 
-![confusion_matrix_knn](https://user-images.githubusercontent.com/48378196/112314110-c1713080-8cfc-11eb-9072-4edadef10942.png)
+![knn_conf_mat](https://user-images.githubusercontent.com/48378196/112323317-c8e90780-8d05-11eb-9ac5-44511d3851b3.png)
 
 ## License
 MIT
